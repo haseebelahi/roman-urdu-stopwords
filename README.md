@@ -1,4 +1,4 @@
-# roman-urdu-stopwords
+# Roman Urdu Stopwords List
 A list of most frequently used Roman Urdu words with different spellings and usages.
 
 This is a very basic effort to collect some basic stopwords for Roman Urdu to help efforts of analyzing text data in roman Urdu which makes up a huge part of daily internet interaction of Urdu speakers.
